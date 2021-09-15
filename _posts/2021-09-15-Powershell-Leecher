@@ -35,7 +35,6 @@ Die Word Datei wird dabei auch automatisch erstellt, benennt und gespeichert. sc
 ## Problem
 
 Unser einziges Problem, welches wir noch nicht lösen konnten, ist, dass nur 1 Bild gespeichert werden kann. Auch wenn man eingibt, dass man mehrere speichern will, geht das Skript direkt nach der Eingabe des ersten Links weiter.
-
 ![Leecher Powershell log](/images/leecherCode.png)
 
 Wir haben nicht viel zeit mit der Behebung dieses Problems verbracht, da wir das Skript erstens mal mit einem Bild zum laufen bringen wollten. Gegen Schluss kamen wir noch ein bisschen unter Zeitdruck mit dem IPERKA und diesem Portfolio also entschieden wir, es so zu lassen.
