@@ -3,7 +3,7 @@ layout: post
 title: Glücksspiel PowerShell vs Python
 ---
 
-In diesem Portfolio beschreibe ich die Unterscheide die ich zwischen PowerShell und Python bemerkte, beim Schreiben des Glücksspiel-Skripts
+In diesem Portfolio beschreibe ich die Unterscheide, die ich zwischen PowerShell und Python bemerkte, beim Schreiben des Glücksspiel-Skripts
 
 ## Aufgabenstellung
 
@@ -16,7 +16,7 @@ Die Idee vom Kunden ist es ein Spiel zu entwickeln, in welchem eine Zufallszahl 
 - Es muss eine Meldung kommen, ob die getippte Zahl grösser oder kleiner ist als die Zufallszahl.
 - Wird die Zahl richtig erraten, muss angezeigt werden, wie viele Versuche gebraucht wurden, bis die Zufallszahl erraten wurde.
 
-Nachdem man Das Skript in PowerShell geschrieben hatte musste man nun das Gleiche in Python implementieren. 
+Nachdem man Das Skript in PowerShell geschrieben hatte, musste man nun das Gleiche in Python implementieren. 
 
 ## Ziele
 
@@ -24,15 +24,15 @@ Nachdem man Das Skript in PowerShell geschrieben hatte musste man nun das Gleich
 
 - Sie können mit PowerShell ein Struktogramm implementieren.
 - Sie können selbstständig ein Struktogramm planen und dieses implementieren.
-- Das Gleiche Skript in Python implementieren.
+- Das gleiche Skript in Python implementieren.
 
 **Meine eigenen Ziele deckten sich eigentlich mit den gegebenen:**
 
-- Ich kann ein einfaches Skript mit python implementieren.
+- Ich kann ein einfaches Skript mit Python implementieren.
 
 ## Produkt
 
-Die erste Aufgabe des Lernauftrags LA_122_77207_GluecksSpiel war es, ein Struktogramm zu entwerfen. als Vorlage bekam man dieses PAP:
+Die erste Aufgabe des Lernauftrags LA_122_77207_GluecksSpiel war es, ein Struktogramm zu entwerfen. Als Vorlage bekam man dieses PAP:
 
 ![PAP Gluecksspiel](/images/Picture1.png)
 
@@ -42,7 +42,7 @@ Also fing ich an, die Schritte des PAPs in meinem PowerShell-Skript umzusetzen. 
 
 Nun war es also Zeit, dieses Skript in Python nachzuschreiben. Ich habe ein bisschen auf dem Internet nach code Abfolgen, welche ich brauchen würde, recherchiert und habe bemerkt, dass sich Python von PowerShell gar nicht so unterscheidet.
 
-Mit dem PowerShell-Skript zur Seite konnte ich die Struktur fast 1 zu 1 abnehmen. Für jeden Funktionsschritt im PowerShell-Skript schaute ich auf dem Internet nach der Python alternative. Das Grösste Problem war, dass es in Python keine do-while Schleife gibt. so musste ich normale while Schleifen brauchen und sie ein bisschen von der PowerShell version abändern.
+Mit dem PowerShell-Skript zur Seite konnte ich die Struktur fast 1 zu 1 abnehmen. Für jeden Funktionsschritt im PowerShell-Skript schaute ich auf dem Internet nach der Python alternative. Das grösste Problem war, dass es in Python keine do-while Schleife gibt. So musste ich normale while Schleifen brauchen und sie ein bisschen von der PowerShell Version abändern.
 
 ## Reflexion
 
