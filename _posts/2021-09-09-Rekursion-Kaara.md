@@ -3,8 +3,6 @@ layout: post
 title: Rekursion mit Kaara
 ---
 
-# Rekursion mit Kaara
-
 In diesem Portfolio erkläre ich, wie ich einen Rekursiven Aufruf in Java verwendete, um Kaara zu steuern.
 
 ## Aufgabenstellung
