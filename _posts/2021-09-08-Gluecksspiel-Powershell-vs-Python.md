@@ -46,11 +46,11 @@ Mit dem PowerShell-Skript zur Seite konnte ich die Struktur fast 1 zu 1 abnehmen
 
 ## Reflexion
 
-ch fand diesen Auftrag sehr gut. Ich hatte das Gefühl, diese Aufgabe sei eine gute Vorbereitung für die LB, da man eigentlich alle Hauptthemen behandelte. Analysieren von PAPs, Erstellen eines Struktogramms, und Implementierung eines PowerShell code, basierend auf ein Struktogramm. 
+Ich fand diesen Auftrag sehr gut. Ich hatte das Gefühl, diese Aufgabe sei eine gute Vorbereitung für die LB, da man eigentlich alle Hauptthemen behandelte. Analysieren von PAPs, Erstellen eines Struktogramms, und Implementierung eines PowerShell code, basierend auf ein Struktogramm. 
 
-Bei der Python-Aufgabe war ich zuerst ein bisschen Verloren, ich wusste nicht wie anzufangen, eine Neue Skriptsprache zu lernen. Als ich aber aufhörte zu zögern und angefangen habe, mir Codestellen im Internet mit PowerShell zu vergleichen erkannte ich, dass es vielleicht gar nicht so schwierig werden würde. Die Logik des Skripts hatte ich schon, und ich wusste schon, dass die Struktur ebenfalls dieselbe sein würde. Jetzt war es einfach Übersetzungsarbeit.
+Bei der Python-Aufgabe war ich zuerst ein bisschen verloren, ich wusste nicht wie anzufangen, Eine Neue Skriptsprache zu lernen. Als ich aber aufhörte zu zögern und angefangen habe, mir Codestellen im Internet mit PowerShell zu vergleichen, erkannte ich, dass es vielleicht gar nicht so schwierig werden würde. Die Logik des Skripts hatte ich schon, und ich wusste schon, dass die Struktur ebenfalls dieselbe sein würde. Jetzt war es einfach Übersetzungsarbeit.
 
-Leider hat dies aber nicht gereicht. Mein Python-Skript schliesst sich jedes Mal nach der ersten Abfrage der Geheimzahl. Da sich die Konsole jedes Mal schliesst gab es auch keine Fehlermeldung. Auch in Visual Studio code zeigt es mir keine Fehler an. Es ist Schade, dass ich das Projekt abgeben muss, ohne dass es fertig ist, aber ich finde den Fehler nicht.
+Leider hat dies aber nicht gereicht. Mein Python-Skript schliesst sich jedes Mal nach der ersten Abfrage der Geheimzahl. Da sich die Konsole jedes Mal schliesst gab es auch keine Fehlermeldung. Auch in Visual Studio Code zeigt es mir keine Fehler an. Es ist schade, dass ich das Projekt abgeben muss, ohne dass es fertig ist, aber ich finde den Fehler nicht.
 
 ## Zielerfüllung
 
@@ -64,21 +64,24 @@ Nicht erledigt, weil es nicht zu diesem Portfolio relevant war.
 
 Das PowerShell-Skript ist nach dem gegebenen PAP geschrieben.
 
-- Das Gleiche Skript in Python implementieren. ✓
+- Das gleiche Skript in Python implementieren. ✓
 
 Das Python Skript hat nach dem PAP die gleiche Funktionalität.
 
 
 **Meine eigenen Ziele deckten sich eigentlich mit den gegebenen:**
 
-- Ich kann ein einfaches Skript mit python implementieren. ✓
-Das Python-Skript ist unten verlinkt.
+- Ich kann ein einfaches Skript mit Python implementieren. ✓
+Das Pythonskript ist unten verlinkt.
 
 ## Unterschiede
 
-Der Wichtigste Unterschied, den ich bei der Umsetzung bemerkte, war, dass es die do-while Schleife nicht gibt, und dass Logischer weise die Syntax unterschiedlich ist. Beispielsweise die Leerschläge. In vielen Programmier- und Skriptsprachen spielen Leerschläge nur zur Leserlichkeit eine Rolle. aber nicht in Python. Anstelle von geschweiften Klammern benutzt man Leerschläge. Diese regel gilt für alle arten von Iterationen und Alternationen. es ist egal wie viele Leerschläge man für eine Abfolge setzt. Wichtig ist nur, dass man immer gleichviele setzt.
+Der wichtigste Unterschied, den ich bei der Umsetzung bemerkte, war, dass es die do-while Schleife nicht gibt, und dass Logischerweise die Syntax unterschiedlich ist. Beispielsweise die Leerschläge. In vielen Programmier- und Skriptsprachen spielen Leerschläge nur zur Leserlichkeit eine Rolle. Aber nicht in Python. Anstelle von geschweiften Klammern benutzt man Leerschläge. Diese Regel gilt für alle Arten von Iterationen und Alternationen. Es ist egal, wie viele Leerschläge man für eine Abfolge setzt. Wichtig ist nur, dass man immer gleich viele setzt.
 
-Ich kann mir nicht wirklich Vor- und Nachteile ausdenken welche für oder gegen Python Sprechen. aber ich fand es mühsam von python, dass ich es nicht in Visual Studio Code ausführen konnte. ich weiss nicht ob das an Meiner Datei liegt. aber ich hätte mich mehr über eine Fehlermeldung gefreut, welche mir wenigstens eine Hinweis gibt, anstatt dass sich die Konsole Schliesst und ich nun keine Ahnung hab, was das Problem ist.
+Ich kann mir nicht wirklich Vor- und Nachteile ausdenken welche für oder gegen Python sprechen. Aber ich fand es mühsam von Python, dass ich es nicht in Visual Studio Code ausführen konnte. Ich weiss nicht, ob das an meiner Datei liegt. Aber ich hätte mich mehr über eine Fehlermeldung gefreut, welche mir wenigstens einen Hinweis gibt, anstatt dass sich die Konsole schliesst und ich nun keine Ahnung hab, was das Problem ist.
 
-Ansonsten fand ich Python, sowie auch PowerShell, von der Sprache her einfach zu verstehen. Damit meine ich, dass man aus den Code Zeilen relativ schnell herausfinden kann, was sie machen. Das Spielt auch mit der Gezwungenen Indentation zusammen. 
+Ansonsten fand ich Python, sowie auch PowerShell, von der Sprache her einfach zu verstehen. Damit meine ich, dass man aus den Code Zeilen relativ schnell herausfinden kann, was sie machen. Das Spielt auch mit der gezwungenen Indentation zusammen. 
 
+## Code download
+
+Das Powershell Skript können sie <a href="" download>Hier</a> herunterladen.
