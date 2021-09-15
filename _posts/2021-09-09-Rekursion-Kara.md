@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rekursion mit Kaara
+title: Rekursion mit Kara
 ---
 
 In diesem Portfolio erkläre ich, wie ich einen Rekursiven Aufruf in Java verwendete, um Kaara zu steuern.
@@ -84,4 +84,4 @@ Erreichte ich in jeder Teilaufgabe.
 
 ## Code download
 
-Mein Kaara-Projekt können Sie <a href="/projekte/Rekursion Kaara/" download>hier</a> herunterladen.
+Mein Kaara-Projekt können Sie <a href="/projekte/Rekursion Kara/" download>hier</a> herunterladen.
