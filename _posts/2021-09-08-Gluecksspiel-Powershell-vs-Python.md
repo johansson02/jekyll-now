@@ -3,8 +3,6 @@ layout: post
 title: Glücksspiel PowerShell vs Python
 ---
 
-# Glücksspiel PowerShell vs Python
-
 In diesem Portfolio beschreibe ich die Unterscheide die ich zwischen PowerShell und Python bemerkte, beim Schreiben des Glücksspiel-Skripts
 
 ## Aufgabenstellung
