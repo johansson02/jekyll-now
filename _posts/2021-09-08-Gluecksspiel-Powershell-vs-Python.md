@@ -84,6 +84,6 @@ Ansonsten fand ich Python, sowie auch PowerShell, von der Sprache her einfach zu
 
 ## Code download
 
-Sie können mein Powershell-Skript <a href="/projekte/Glücksspiel ps vs py/Glücksspiel.ps1" download>hier</a> herunterladen.
+Sie können mein Powershell-Skript <a href="/projekte/Gluecksspiel ps vs py/Gluecksspiel.ps1" download>hier</a> herunterladen.
 
-Sie können mein Python-Skript <a href="/projekte/Glücksspiel ps vs py/Glücksspiel.py" download>hier</a> herunterladen.
+Sie können mein Python-Skript <a href="/projekte/Gluecksspiel ps vs py/Gluecksspiel.py" download>hier</a> herunterladen.
