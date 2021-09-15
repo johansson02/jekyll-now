@@ -62,12 +62,7 @@ Ein Bild wird im gleichen Ordner wie die Word-Datei als "1.jpg" gespeichert.
 In der vom Skript erstellten Word-Datei, wird das Bild "1.jpg" eingefügt und gespeichert.
 
 
-Meine eigenen Ziele waren:
-
-- Eine einfache Rekursive Methode erstellen und sie verstehen. ✓
-
-Erreichte ich in jeder Teilaufgabe.
-
 ## Code download
 
-<a href="" download></a>
+Sie können mein Powershell-Skript <a href="/projekte/Powershell Leecher/Leecher.ps1" download>hier</a> herunterladen
+Sie können meine IPERKA-Dokumentation <a href="/projekte/Powershell Leecher/IPERKA_1306.docx" download>hier</a> herunterladen
