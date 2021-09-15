@@ -64,5 +64,6 @@ In der vom Skript erstellten Word-Datei, wird das Bild "1.jpg" eingefügt und ge
 
 ## Code download
 
-Sie können mein Powershell-Skript <a href="/projekte/Powershell Leecher/Leecher.ps1" download>hier</a> herunterladen
-Sie können meine IPERKA-Dokumentation <a href="/projekte/Powershell Leecher/IPERKA_1306.docx" download>hier</a> herunterladen
+Sie können mein Powershell-Skript <a href="/projekte/Powershell Leecher/Leecher.ps1" download>hier</a> herunterladen.
+
+Sie können meine IPERKA-Dokumentation <a href="/projekte/Powershell Leecher/IPERKA_1306.docx" download>hier</a> herunterladen.
