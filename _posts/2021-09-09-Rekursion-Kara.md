@@ -4,6 +4,7 @@ title: Rekursion mit Kara
 ---
 
 In diesem Portfolio erkläre ich, wie ich einen Rekursiven Aufruf in Java verwendete, um Kaara zu steuern.
+<!--break-->
 
 ## Aufgabenstellung
 
