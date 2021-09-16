@@ -13,7 +13,7 @@ Als ich diese Teilaufgabe gelesen habe, konnte ich mir relativ schnell vorstelle
 
 der Erste schritt, war es, die "Character bean" in die "Controller bean" zu "injecten", d. h. die "Controller bean" kennt die Variablen der "Character bean" und dessen getter/setter. Das ging ganz einfach mit 2 Zeilen code: 
 
-![small code snippet](images/codeSnippet1.png)
+![small code snippet](/images/codeSnippet1.png)
 
 Als Nächstes kam direkt die Methode. Das erste was mir einfiel, und was Schlussendlich auch funktionierte war eine "if" Verzweigung. Besser gesagt eine "if-else if", weil ich 2 Bedingungen brauchte. Ich dachte mir folgendes:  Über die 3 Seiten werden Informationen gespeichert. Am Anfang sind jedoch alle Variablen leer. Das heisst, dass ich diese Variablen als Bedingung Brauchen kann. 
 
@@ -21,12 +21,12 @@ Der Code, unten auf der Abbildung, zeigt die Methode, die entscheidet welche Sei
 
 ## Code Abbildung
 
-![medium code snippet](images/codeSnippet2.png)
+![medium code snippet](/images/codeSnippet2.png)
 
 ## Demonstrationsvideo
 
 <video width="320" height="240" controls>
-  <source src="images/demoVideo.mp4" type="video/mp4">
+  <source src="/images/demoVideo.mp4" type="video/mp4">
 </video>
 
 ## Reflexion
