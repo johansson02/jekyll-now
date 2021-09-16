@@ -5,7 +5,6 @@ title: Dynamische Weiterleitung zwischen Faces
 
 
 In diesem Portfolio erläutere ich meine Erkenntnisse zum Problem, dass man über eine Methode, je nach Input, verschiedene Seiten angezeigt werden.
-<!--more-->
 
 ## Beschreibung
 
