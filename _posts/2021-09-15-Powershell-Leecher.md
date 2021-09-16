@@ -36,7 +36,7 @@ Die Word Datei wird dabei auch automatisch erstellt, benennt und gespeichert. sc
 ## Problem
 
 Unser einziges Problem, welches wir noch nicht lösen konnten, ist, dass nur 1 Bild gespeichert werden kann. Auch wenn man eingibt, dass man mehrere speichern will, geht das Skript direkt nach der Eingabe des ersten Links weiter.
-![Leecher Powershell log](/images/leecherCode.png)
+![Leecher Powershell log](images/leecherCode.png)
 
 Wir haben nicht viel zeit mit der Behebung dieses Problems verbracht, da wir das Skript erstens mal mit einem Bild zum laufen bringen wollten. Gegen Schluss kamen wir noch ein bisschen unter Zeitdruck mit dem IPERKA und diesem Portfolio also entschieden wir, es so zu lassen.
 
@@ -56,7 +56,7 @@ Meine eigenen Ziele waren:
 1. Das Skript speichert die Bilder Lokal ✓
 
 Ein Bild wird im gleichen Ordner wie die Word-Datei als "1.jpg" gespeichert.
-![Leecher Verifizierung](/images/leecherProof.png)
+![Leecher Verifizierung](images/leecherProof.png)
 
 2. Die Bilder werden in einer HTML Datei oder in einem Word Dokument gespeichert. ✓
 
@@ -65,6 +65,6 @@ In der vom Skript erstellten Word-Datei, wird das Bild "1.jpg" eingefügt und ge
 
 ## Code download
 
-Sie können mein Powershell-Skript <a href="/projekte/Powershell Leecher/Leecher.ps1" download>hier</a> herunterladen.
+Sie können mein Powershell-Skript <a href="projekte/Powershell Leecher/Leecher.ps1" download>hier</a> herunterladen.
 
-Sie können meine IPERKA-Dokumentation <a href="/projekte/Powershell Leecher/IPERKA_1306.docx" download>hier</a> herunterladen.
+Sie können meine IPERKA-Dokumentation <a href="projekte/Powershell Leecher/IPERKA_1306.docx" download>hier</a> herunterladen.
