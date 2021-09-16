@@ -4,7 +4,6 @@ title: PowerShell Leecher - Bilder vom Internet in Word-Datei speichern
 ---
 
 In diesem Portfolio erkläre ich mein PowerShell Projekt, welches ich mit meinem Kollegen Dion zusammen erarbeitet habe.
-<!--more-->
 
 ## Aufgabenstellung
 
