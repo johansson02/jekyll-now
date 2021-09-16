@@ -2,17 +2,11 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
+    {% if post.content contains "<!-- more -->" %}
+      {{ post.content | split:"<!-- more -->" | first % }}
+      <div style="text-align:right;">
+        <a href="{{ post.url }}" style="color:#000;"> Read More </a>
       </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
+    {% else %}
+      {{ post.content }}
+    {% endif %}
