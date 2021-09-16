@@ -85,4 +85,4 @@ Erreichte ich in jeder Teilaufgabe.
 
 ## Code download
 
-Mein Kaara-Projekt können Sie <a href="files/Kara Aufgaben a.b.c.zip" download>hier</a> herunterladen.
+Mein Kaara-Projekt können Sie <a href="files/Kara Aufgaben a,b,c.zip" download>hier</a> herunterladen.
