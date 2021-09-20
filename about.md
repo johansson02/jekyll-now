@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Ich bin ein IMS-Schüler an der Kantonsschule Baden und an der Berufsbildung Baden (BBB). Zurzeit bin ich im dritten Jahr. Die Projekte auf diesem Blog habe ich während den 3 Jahren in der Schule, sowie in der Freizeit erarbeitet. 
 
-### More Information
+### Kontakt
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Sie können mich bei Fragen hier kontaktieren: <fake@example.com>
