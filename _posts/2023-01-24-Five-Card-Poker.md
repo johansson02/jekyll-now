@@ -37,7 +37,7 @@ Die Scores aller Spieler werden durchitereirt, bis der mit dem Höchsten Score d
 Dieses Projekt ist ziemlich gut gegangen, meiner Meinung nach. Wir sind in der gegebenen Zeitgut vorangekommen. Gegen Schluss waren wir doch ein bisschen in Stress gekommen, was uns aber nur weitergeholfen hat, weil wir unter Zeitdruck effizienter gearbeitet haben. 
 Wir konnten zu zweit die Arbeit gut einteilen, sodass wir nicht aneinander vorbeiarbeiteten. Dazu haben wir Git verwendet.
 
-![commitverlauf](images/commitverlaufFCP.PNG)
+![commitverlauf](images/commitverlaufFCP.png)
 
 Ich habe oft von zuhause aus auf mienem Pc gearbeitet, worauf ich aus unbekannten Gründen meinen Fortschritt nicht auf Git pushen konnte, also habe ih die geänderten Datein jeweils Mikhail geschickt, der hatte sie dann gepusht. Ich würde nicht sagen, dass ich konkret etwas Neues gelernt habe, aber mehr mein bereits bestehendes Wissen gefestigt habe.
 
