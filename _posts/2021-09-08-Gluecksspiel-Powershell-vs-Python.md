@@ -35,7 +35,7 @@ Nachdem man Das Skript in PowerShell geschrieben hatte, musste man nun das Gleic
 
 Die erste Aufgabe des Lernauftrags LA_122_77207_GluecksSpiel war es, ein Struktogramm zu entwerfen. Als Vorlage bekam man dieses PAP:
 
-![PAP Gluecksspiel](images/Picture1.png)
+![PAP Gluecksspiel](Gluecksspiel-Powershell-vs-Python/images/Picture1.png)
 
 Diese Aufgabe habe ich nicht gelöst, weil wir zuvor schon viele Struktogramme gemacht haben und ich dachte, dass ich auch gleich vom PAP ein Skript schreiben kann.
 
@@ -85,6 +85,6 @@ Ansonsten fand ich Python, sowie auch PowerShell, von der Sprache her einfach zu
 
 ## Code download
 
-Sie können mein Powershell-Skript <a href="files/Gluecksspiel.ps1" download>hier</a> herunterladen.
+Sie können mein Powershell-Skript <a href="Gluecksspiel-Powershell-vs-Python/files/Gluecksspiel.ps1" download>hier</a> herunterladen.
 
-Sie können mein Python-Skript <a href="files/Gluecksspiel.py" download>hier</a> herunterladen.
+Sie können mein Python-Skript <a href="Gluecksspiel-Powershell-vs-Python/files/Gluecksspiel.py" download>hier</a> herunterladen.
